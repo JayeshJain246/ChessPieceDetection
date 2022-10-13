@@ -6,3 +6,6 @@ We intend to detect and recognise the chess pieces on the chessboard and assign 
 We have use kaggle dataset.
 We use a pre-trained model using YOLOV3 (You Only Look Once) which is used with ImageAI library and implemented using transfer learning methodology for custom object detection and recognition.
 
+![image](https://user-images.githubusercontent.com/77563599/195669243-bde5b806-98b1-43ef-a8c1-493f7c62988a.png)
+
+
